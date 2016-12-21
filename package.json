@@ -1,0 +1,22 @@
+{
+  "name": "shelter-app",
+  "description": "The shelter app helps dog lovers connect to new dogs in the Seattle area.",
+  "version": "0.0.1",
+  "private": true,
+  "author": "https://github.com/kinetiqideas/shelter-app/graphs/contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kinetiqideas/shelter-app.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "npm": ">=2.0.0"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.9"
+  }
+}

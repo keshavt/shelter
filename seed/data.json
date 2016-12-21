@@ -1,0 +1,2007 @@
+[{
+  "name": "Max",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 17,
+  "size": "large",
+  "status": "shelter",
+  "location": "Greenlake",
+  "domesticated": true
+}, {
+  "name": "Buddy",
+  "type": "Rat Terrier",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 30,
+  "size": "small",
+  "status": "shelter",
+  "location": "Wallingford",
+  "domesticated": true
+}, {
+  "name": "Charlie",
+  "type": "German Shepherd",
+  "gender": "male",
+  "color": "Black & White",
+  "location": "Ballard",
+  "age": 11,
+  "size": "large",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Jack",
+  "type": "Sakhalin Husky",
+  "location": "Capitol Hill",
+  "gender": "male",
+  "color": "Grey",
+  "age": 25,
+  "location": "Fremont",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cooper",
+  "type": "Shetland Sheepdog",
+  "gender": "male",
+  "location": "North Gate",
+  "color": "Merle, Sable & White",
+  "age": 37,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rocky",
+  "location": "Lake City",
+  "type": "Stephens Cur",
+  "gender": "male",
+  "location": "Greenlake",
+  "color": "Black",
+  "age": 50,
+  "size": "large",
+  "status": "homed",
+  "domesticated": false
+}, {
+  "name": "Toby",
+  "location": "University District",
+  "type": "Bulldog",
+  "gender": "male",
+  "color": "Brown & White",
+  "age": 24,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Tucker",
+  "type": "White Shepherd",
+  "gender": "male",
+  "color": "White",
+  "location": "Greenlake",
+  "age": 96,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Jake",
+  "type": "Wire Fox Terrier",
+  "gender": "male",
+  "color": "White",
+  "location": "Wallingford",
+  "age": 60,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bear",
+  "type": "Stephens Cur",
+  "location": "University District",
+  "gender": "male",
+  "color": "black",
+  "age": 54,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Duke",
+  "type": "Bulldog",
+  "gender": "male",
+  "color": "Brown & White",
+  "location": "Wallingford",
+  "age": 4,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Teddy",
+  "type": "Dalmatian",
+  "gender": "male",
+  "color": "Black & White",
+  "location": "West Seattle",
+  "age": 16,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Oliver",
+  "type": "Dalmatian",
+  "gender": "male",
+  "color": "Black & White",
+  "location": "Greenlake",
+  "age": 88,
+  "size": "large",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Riley",
+  "type": "English Shepherd",
+  "gender": "male",
+  "color": "Sable & White",
+  "age": 44,
+  "location": "West Seattle",
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bailey",
+  "type": "Estrela Mountain Dog",
+  "gender": "male",
+  "color": "Black",
+  "age": 22,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bentley",
+  "type": "White Shepherd",
+  "gender": "male",
+  "color": "White",
+  "age": 85,
+  "location": "Wallingford",
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Milo",
+  "type": "Golden Retriever",
+  "gender": "male",
+  "color": "Yellow",
+  "age": 17,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Buster",
+  "type": "Norfolk Spaniel",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 33,
+  "location": "Wallingford",
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cody",
+  "type": "Estrela Mountain Dog",
+  "gender": "male",
+  "color": "Black",
+  "age": 90,
+  "location": "Downtown Seattle",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Dexter",
+  "type": "Treeing Cur",
+  "gender": "male",
+  "color": "Black & Red",
+  "age": 70,
+  "location": "Greenlake",
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": false
+}, {
+  "name": "Winston",
+  "type": "St. Bernard",
+  "gender": "male",
+  "color": "Brown & White",
+  "age": 9,
+  "location": "Greenlake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Murphy",
+  "type": "White Shepherd",
+  "gender": "male",
+  "color": "White",
+  "age": 66,
+  "size": "large",
+  "location": "Wallingford",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Leo",
+  "type": "St. Bernard",
+  "gender": "male",
+  "color": "Brown & White",
+  "age": 4,
+  "location": "West Seattle",
+  "size": "large",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Lucky",
+  "type": "Stephens Cur",
+  "gender": "male",
+  "color": "Black",
+  "age": 74,
+  "size": "large",
+  "location": "Greenlake",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Oscar",
+  "type": "Bloodhound",
+  "gender": "male",
+  "location": "University District",
+  "color": "Black",
+  "age": 44,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Louie",
+  "type": "Bloodhound",
+  "gender": "male",
+  "location": "University District",
+  "color": "Black",
+  "age": 88,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Zeus",
+  "type": "Golden Retriever",
+  "gender": "male",
+  "location": "Wallingford",
+  "color": "Yellow",
+  "age": 8,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Henry",
+  "type": "Bloodhound",
+  "gender": "male",
+  "location": "Lynnwood",
+  "color": "Black",
+  "age": 43,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sam",
+  "type": "Welsh Sheepdog",
+  "gender": "male",
+  "color": "Red & White",
+  "location": "Montlake Terrace",
+  "age": 69,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Harley",
+  "type": "Estrela Mountain Dog",
+  "gender": "male",
+  "color": "Black",
+  "location": "University District",
+  "age": 44,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Baxter",
+  "type": "Norfolk Spaniel",
+  "gender": "male",
+  "color": "Black & White",
+  "location": "Greenlake",
+  "age": 7,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Gus",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 99,
+  "location": "Renton",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sammy",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 107,
+  "size": "large",
+  "location": "Wallingford",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Jackson",
+  "type": "Wire Fox Terrier",
+  "gender": "male",
+  "color": "White",
+  "age": 105,
+  "size": "small",
+  "status": "shelter",
+  "location": "University District",
+  "domesticated": true
+
+}, {
+  "name": "Bruno",
+  "type": "White Shepherd",
+  "gender": "male",
+  "color": "White",
+  "location": "Greenlake",
+  "age": 99,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Diesel",
+  "type": "English Shepherd",
+  "gender": "male",
+  "color": "Sable & White",
+  "age": 17,
+  "location": "Shoreline",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Jax",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Wallingford",
+  "age": 79,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Gizmo",
+  "type": "Bloodhound",
+  "gender": "male",
+  "location": "Kirkland",
+  "color": "Black",
+  "age": 17,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bandit",
+  "type": "Bulldog",
+  "gender": "male",
+  "color": "Brown & White",
+  "location": "West Seattle",
+  "age": 77,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rusty",
+  "type": "Treeing Cur",
+  "gender": "male",
+  "color": "Black",
+  "age": 47,
+  "location": "Wallingford",
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Marley",
+  "type": "English Shepherd",
+  "gender": "male",
+  "location": "West Seattle",
+  "color": "Sable & White",
+  "age": 70,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Jasper",
+  "type": "Norfolk Spaniel",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 82,
+  "size": "small",
+  "location": "University District",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Brody",
+  "type": "Bloodhound",
+  "location": "Greenlake",
+  "gender": "male",
+  "color": "Black",
+  "age": 12,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Roscoe",
+  "type": "German Spaniel",
+  "gender": "male",
+  "color": "Brown",
+  "location": "West Seattle",
+  "age": 12,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Hank",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "West Seattle",
+  "age": 21,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Otis",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Downtown Seattle",
+  "age": 72,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bo",
+  "type": "Norfolk Spaniel",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 72,
+  "location": "Downtown Seattle",
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Joey",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 74,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Beau",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 78,
+  "location": "Capitol Hill",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ollie",
+  "type": "German Spaniel",
+  "gender": "male",
+  "location": "View Ridge",
+  "color": "Brown",
+  "age": 79,
+  "size": "large",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Tank",
+  "type": "White Shepherd",
+  "gender": "male",
+  "color": "White",
+  "location": "Wallingford",
+  "age": 22,
+  "size": "medium",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Shadow",
+  "type": "Dalmatian",
+  "gender": "male",
+  "location": "Ballard",
+  "color": "Black & White",
+  "age": 0,
+  "size": "small",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Peanut",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 7,
+  "location": "Lake City",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Hunter",
+  "type": "St. Bernard",
+  "gender": "male",
+  "color": "Brown & White",
+  "location": "Fremont",
+  "age": 1,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Scout",
+  "type": "Wire Fox Terrier",
+  "gender": "male",
+  "color": "White",
+  "location": "Fremont",
+  "age": 30,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Blue",
+  "type": "Wire Fox Terrier",
+  "gender": "male",
+  "color": "Black",
+  "age": 70,
+  "location": "Wallingford",
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rocco",
+  "type": "Golden Retriever",
+  "gender": "male",
+  "color": "Yellow",
+  "age": 40,
+  "size": "large",
+  "location": "Greenlake",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Simba",
+  "type": "Bulldog",
+  "gender": "male",
+  "location": "Greenlake",
+  "color": "Brown & White",
+  "age": 59,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Tyson",
+  "type": "Estrela Mountain Dog",
+  "gender": "male",
+  "location": "Greenlake",
+  "color": "Black",
+  "age": 24,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ziggy",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 43,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Boomer",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Lake City",
+  "age": 56,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Romeo",
+  "type": "English Shepherd",
+  "gender": "male",
+  "color": "Sable & White",
+  "location": "Fremont",
+  "age": 66,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Apollo",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Fremont",
+  "age": 72,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ace",
+  "type": "German Spaniel",
+  "gender": "male",
+  "color": "Brown",
+  "age": 88,
+  "size": "medium",
+  "location": "Greenlake",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Luke",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 99,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rex",
+  "type": "Bloodhound",
+  "gender": "male",
+  "location": "University District",
+  "color": "Black",
+  "age": 72,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Finn",
+  "type": "Bedlington Terrier",
+  "location": "Greenlake",
+  "gender": "male",
+  "color": "White",
+  "age": 54,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Chance",
+  "type": "Norfolk Spaniel",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 22,
+  "location": "Wallingford",
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rudy",
+  "type": "Dalmatian",
+  "gender": "male",
+  "color": "Black & White",
+  "location": "Lake City",
+  "age": 54,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Loki",
+  "type": "Bloodhound",
+  "gender": "male",
+  "location": "Fremont",
+  "color": "Black",
+  "age": 55,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Moose",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Fremont",
+  "age": 27,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "George",
+  "type": "English Shepherd",
+  "gender": "male",
+  "color": "Sable & White",
+  "location": "Lake City",
+  "age": 88,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Samson",
+  "type": "St. Bernard",
+  "gender": "male",
+  "color": "Brown & White",
+  "location": "Northgate",
+  "age": 19,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Coco",
+  "type": "White Shepherd",
+  "location": "Greenlake",
+  "gender": "male",
+  "color": "White",
+  "age": 0,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Benny",
+  "type": "English Shepherd",
+  "gender": "male",
+  "color": "Sable & White",
+  "age": 71,
+  "location": "Northgate",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Thor",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Cedar Park",
+  "age": 8,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rufus",
+  "type": "English Shepherd",
+  "gender": "male",
+  "color": "Sable & White",
+  "age": 86,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Prince",
+  "type": "Bedlington Terrier",
+  "gender": "male",
+  "color": "White",
+  "location": "Cedar Park",
+  "age": 30,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Chester",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 30,
+  "location": "Bitter Lake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Brutus",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 69,
+  "location": "Bitter Lake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Scooter",
+  "type": "Estrela Mountain Dog",
+  "gender": "male",
+  "location": "Wedgwood",
+  "color": "Black",
+  "age": 4,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Chico",
+  "type": "Golden Retriever",
+  "gender": "male",
+  "color": "Yellow",
+  "age": 44,
+  "size": "large",
+  "status": "shelter",
+  "location": "Greenlake",
+  "domesticated": true
+}, {
+  "name": "Spike",
+  "type": "Great Dane",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 39,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Gunner",
+  "type": "Welsh Sheepdog",
+  "gender": "male",
+  "color": "Red & White",
+  "age": 23,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sparky",
+  "type": "Labrador Retriever",
+  "gender": "male",
+  "location": "Greenlake",
+  "color": "Yellow & White",
+  "age": 30,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Mickey",
+  "type": "Bulldog",
+  "gender": "male",
+  "location": "Lake City",
+  "color": "Brown & White",
+  "age": 50,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Kobe",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Wallingford",
+  "age": 30,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Chase",
+  "type": "Great Dane",
+  "gender": "male",
+  "color": "Black & White",
+  "location": "Lake City",
+  "age": 21,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Oreo",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Wedgwood",
+  "age": 50,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Frankie",
+  "type": "Welsh Sheepdog",
+  "gender": "male",
+  "color": "Red & White",
+  "location": "Lake City",
+  "age": 1,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Mac",
+  "type": "Great Dane",
+  "gender": "male",
+  "color": "Black & White",
+  "age": 6,
+  "location": "Capitol Hill",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Benji",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 3,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bubba",
+  "type": "Welsh Sheepdog",
+  "gender": "male",
+  "color": "Red & White",
+  "age": 99,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Champ",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "location": "Ballard",
+  "age": 142,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Brady",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 123,
+  "location": "Greenlake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Elvis",
+  "type": "German Spaniel",
+  "gender": "male",
+  "color": "Brown",
+  "age": 132,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Copper",
+  "type": "Labrador Retriever",
+  "gender": "male",
+  "color": "Yellow & White",
+  "location": "Ballard",
+  "age": 104,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cash",
+  "type": "Bloodhound",
+  "gender": "male",
+  "color": "Black",
+  "age": 102,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Archie",
+  "type": "Dalmatian",
+  "gender": "male",
+  "location": "Wallingford",
+  "color": "Black & White",
+  "age": 106,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Walter",
+  "type": "German Shepherd",
+  "gender": "male",
+  "location": "Capitol Hill",
+  "color": "Black",
+  "age": 133,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bella",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 88,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lucy",
+  "type": "German Spaniel",
+  "gender": "female",
+  "location": "Lake Union",
+  "color": "Brown",
+  "age": 33,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Daisy",
+  "type": "Bulldog",
+  "gender": "female",
+  "color": "Brown & White",
+  "location": "Wallingford",
+  "age": 53,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Molly",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "Greenlake",
+  "age": 39,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lola",
+  "type": "Welsh Sheepdog",
+  "gender": "female",
+  "color": "Red & White",
+  "location": "Wallingford",
+  "age": 22,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sophie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 44,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sadie",
+  "type": "Great Dane",
+  "gender": "female",
+  "color": "Black & White",
+  "location": "Greenlake",
+  "age": 109,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Maggie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 7,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Chloe",
+  "type": "Treeing Cur",
+  "gender": "female",
+  "location": "Ballard",
+  "color": "Red",
+  "age": 18,
+  "size": "small",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Bailey",
+  "type": "White Shepherd",
+  "gender": "female",
+  "color": "White",
+  "location": "University District",
+  "age": 19,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Roxy",
+  "type": "German Shepherd",
+  "gender": "female",
+  "location": "University District",
+  "color": "Black",
+  "age": 7,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Zoey",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "Greenlake",
+  "age": 4,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lily",
+  "type": "German Spaniel",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Brown",
+  "age": 5,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Luna",
+  "type": "Welsh Sheepdog",
+  "gender": "female",
+  "color": "Red & White",
+  "location": "Greenlake",
+  "age": 3,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Coco",
+  "type": "Bloodhound",
+  "gender": "female",
+  "location": "University District",
+  "color": "Black",
+  "age": 70,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Stella",
+  "type": "German Spaniel",
+  "gender": "female",
+  "color": "Brown",
+  "location": "Greenlake",
+  "age": 67,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Gracie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 98,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Abby",
+  "type": "Bedlington Terrier",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "White",
+  "age": 80,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Penny",
+  "type": "Dalmatian",
+  "gender": "female",
+  "location": "Capitol Hill",
+  "color": "Black & White",
+  "age": 105,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Zoe",
+  "type": "Estrela Mountain Dog",
+  "gender": "female",
+  "color": "Black",
+  "age": 104,
+  "location": "Ballard",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ginger",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "color": "Yellow & White",
+  "age": 107,
+  "size": "large",
+  "location": "University District",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ruby",
+  "type": "Bulldog",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Brown & White",
+  "age": 140,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Rosie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 104,
+  "size": "large",
+  "status": "shelter",
+  "location": "University District",
+  "domesticated": true
+}, {
+  "name": "Lilly",
+  "type": "Great Dane",
+  "gender": "female",
+  "color": "Black & White",
+  "age": 106,
+  "location": "Greenlake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ellie",
+  "type": "German Shepherd",
+  "gender": "female",
+  "location": "Capitol Hill",
+  "color": "Black",
+  "age": 109,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Mia",
+  "type": "German Spaniel",
+  "location": "University District",
+  "gender": "female",
+  "color": "Brown",
+  "age": 110,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sasha",
+  "type": "Bloodhound",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "black",
+  "age": 117,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lulu",
+  "type": "Norfolk Spaniel",
+  "gender": "female",
+  "color": "Black & White",
+  "location": "Ballard",
+  "age": 110,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Pepper",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 110,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Nala",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 119,
+  "location": "Greenlake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lexi",
+  "type": "Norfolk Spaniel",
+  "gender": "female",
+  "location": "Wallingford",
+  "color": "Black & White",
+  "age": 99,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lady",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "location": "University District",
+  "color": "Yellow & White",
+  "age": 118,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Emma",
+  "type": "Bedlington Terrier",
+  "gender": "female",
+  "color": "White",
+  "age": 125,
+  "size": "medium",
+  "location": "Greenlake",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Riley",
+  "type": "Estrela Mountain Dog",
+  "gender": "female",
+  "color": "Black",
+  "age": 109,
+  "size": "large",
+  "location": "Wallingford",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Dixie",
+  "type": "Golden Retriever",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Yellow",
+  "age": 111,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Annie",
+  "type": "German Spaniel",
+  "gender": "female",
+  "location": "University District",
+  "color": "Brown",
+  "age": 102,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Maddie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "Capitol Hill",
+  "age": 105,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Piper",
+  "type": "Dalmatian",
+  "gender": "female",
+  "color": "Black & White",
+  "age": 105,
+  "location": "Lake Union",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Princess",
+  "type": "Golden Retriever",
+  "gender": "female",
+  "color": "Yellow",
+  "location": "Lake Union",
+  "age": 9,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Izzy",
+  "type": "Bulldog",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Brown & White",
+  "age": 22,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Maya",
+  "type": "German Spaniel",
+  "location": "University District",
+  "gender": "female",
+  "color": "Brown",
+  "age": 39,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Olive",
+  "type": "Great Dane",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Black & White",
+  "age": 55,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cookie",
+  "type": "English Shepherd",
+  "gender": "female",
+  "color": "Sable & White",
+  "age": 53,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Roxie",
+  "type": "German Shepherd",
+  "location": "University District",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Black",
+  "age": 43,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Angel",
+  "type": "English Shepherd",
+  "gender": "female",
+  "location": "Capitol Hill",
+  "color": "Sable & White",
+  "age": 23,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Belle",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "color": "Yellow & White",
+  "age": 29,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Layla",
+  "type": "Bloodhound",
+  "gender": "female",
+  "location": "Capitol Hill",
+  "color": "Black",
+  "age": 99,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Missy",
+  "type": "Bedlington Terrier",
+  "gender": "female",
+  "color": "White",
+  "age": 88,
+  "location": "Greenlake",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cali",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "color": "Yellow & White",
+  "location": "Ballard",
+  "age": 5,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Honey",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 0,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Millie",
+  "type": "Bulldog",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Brown & White",
+  "age": 1,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Harley",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 53,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Marley",
+  "type": "Bloodhound",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Black",
+  "age": 25,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Holly",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Yellow & White",
+  "age": 35,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Kona",
+  "type": "Bloodhound",
+  "gender": "female",
+  "location": "University District",
+  "color": "Black",
+  "age": 45,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Shelby",
+  "type": "German Spaniel",
+  "gender": "female",
+  "color": "Brown",
+  "location": "Ballard",
+  "age": 25,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Jasmine",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 9,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Ella",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 6,
+  "size": "medium",
+  "location": "Greenlake",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Charlie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "Lake Union",
+  "age": 17,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Minnie",
+  "type": "Golden Retriever",
+  "gender": "female",
+  "color": "Yellow",
+  "age": 2,
+  "location": "University District",
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Willow",
+  "type": "Bloodhound",
+  "location": "Greenlake",
+  "gender": "female",
+  "color": "Black",
+  "age": 98,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Phoebe",
+  "type": "German Shepherd",
+  "gender": "female",
+  "location": "Lake Union",
+  "color": "Black",
+  "age": 97,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Callie",
+  "type": "Sakhalin Husky",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 135,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Scout",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "Greenlake",
+  "age": 109,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Katie",
+  "type": "German Spaniel",
+  "gender": "female",
+  "color": "Brown",
+  "location": "Lake Union",
+  "age": 120,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Dakota",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 128,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sugar",
+  "type": "Bulldog",
+  "gender": "female",
+  "color": "Brown & White",
+  "location": "Greenlake",
+  "age": 100,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sandy",
+  "type": "Golden Retriever",
+  "gender": "female",
+  "location": "University District",
+  "color": "Yellow",
+  "age": 101,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Josie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 102,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Macy",
+  "type": "Sakhalin Husky",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Black",
+  "age": 100,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Trixie",
+  "type": "Welsh Sheepdog",
+  "gender": "female",
+  "color": "Red & White",
+  "age": 109,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Winnie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 115,
+  "location": "Ballard",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Peanut",
+  "type": "Welsh Sheepdog",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Red & White",
+  "age": 112,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Mimi",
+  "type": "Bedlington Terrier",
+  "gender": "female",
+  "color": "White",
+  "age": 119,
+  "location": "Ballard",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Hazel",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 112,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Mocha",
+  "type": "English Shepherd",
+  "gender": "female",
+  "color": "Sable & White",
+  "age": 109,
+  "location": "Ballard",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cleo",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "color": "Yellow & White",
+  "age": 109,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Hannah",
+  "type": "English Shepherd",
+  "gender": "female",
+  "color": "Sable & White",
+  "location": "Wallingford",
+  "age": 111,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Athena",
+  "type": "German Shepherd",
+  "gender": "female",
+  "color": "Black",
+  "location": "Greenlake",
+  "age": 71,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lacey",
+  "location": "University District",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 73,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sassy",
+  "type": "English Shepherd",
+  "gender": "female",
+  "color": "Sable & White",
+  "age": 75,
+  "location": "Ballard",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Lucky",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 0,
+  "location": "Wallingford",
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Bonnie",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 6,
+  "location": "Ballard",
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Allie",
+  "type": "Welsh Sheepdog",
+  "gender": "female",
+  "location": "University District",
+  "color": "Red & White",
+  "age": 5,
+  "size": "medium",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Brandy",
+  "type": "Golden Retriever",
+  "location": "Greenlake",
+  "gender": "female",
+  "color": "Yellow",
+  "age": 4,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sydney",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "age": 3,
+  "location": "Wallingford",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Casey",
+  "type": "Labrador Retriever",
+  "gender": "female",
+  "color": "Yellow & White",
+  "location": "University District",
+  "age": 75,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Gigi",
+  "type": "Bloodhound",
+  "gender": "female",
+  "color": "Black",
+  "location": "Greenlake",
+  "age": 74,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Baby",
+  "type": "English Shepherd",
+  "gender": "female",
+  "color": "Sable & White",
+  "location": "Ballard",
+  "age": 73,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Madison",
+  "type": "Dalmatian",
+  "gender": "female",
+  "location": "University District",
+  "color": "Black & WHite",
+  "age": 10,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Heidi",
+  "type": "Rat Terrier",
+  "gender": "female",
+  "color": "White",
+  "age": 20,
+  "location": "University District",
+  "size": "small",
+  "status": "shelter",
+  "domesticated": false
+}, {
+  "name": "Sally",
+  "type": "Bulldog",
+  "gender": "female",
+  "color": "Brown & White",
+  "age": 7,
+  "location": "Wallingford",
+  "size": "small",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Shadow",
+  "type": "Podenco Canario",
+  "gender": "female",
+  "color": "Brown",
+  "age": 105,
+  "location": "University District",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Cocoa",
+  "type": "Norfolk Terrier",
+  "gender": "female",
+  "color": "Black & Tan",
+  "age": 60,
+  "location": "Ballard",
+  "size": "small",
+  "status": "homed",
+  "domesticated": false
+}, {
+  "name": "Pebbles",
+  "type": "Miniature Pinsche",
+  "gender": "female",
+  "location": "Greenlake",
+  "color": "Black",
+  "age": 40,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Misty",
+  "type": "Neapolitan Mastiff",
+  "gender": "female",
+  "color": "Black",
+  "location": "University District",
+  "age": 19,
+  "size": "large",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Nikki",
+  "type": "Longhaired Whippet",
+  "gender": "female",
+  "color": "White",
+  "age": 21,
+  "location": "Ballard",
+  "size": "large",
+  "status": "shelter",
+  "domesticated": false
+}, {
+  "name": "Lexie",
+  "type": "Dutch Shepherd Dog",
+  "gender": "female",
+  "color": "Gray Brindle, Salt & Pepper",
+  "age": 50,
+  "location": "Greenlake",
+  "size": "large",
+  "status": "homed",
+  "domesticated": true
+}, {
+  "name": "Grace",
+  "type": "Chinook",
+  "gender": "female",
+  "color": "Black & Tan",
+  "age": 7,
+  "size": "medium",
+  "location": "University District",
+  "status": "shelter",
+  "domesticated": true
+}, {
+  "name": "Sierra",
+  "type": "Chow Chow",
+  "location": "Ballard",
+  "gender": "female",
+  "color": "Orange",
+  "age": 22,
+  "size": "small",
+  "status": "shelter",
+  "domesticated": true
+}]

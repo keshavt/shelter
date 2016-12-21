@@ -1,0 +1,2 @@
+E:\Node\shelter-app-master\obj\Debug\Shelter.njsprojResolveAssemblyReference.cache
+E:\Node\shelter-app-master\bin\Microsoft.NodejsTools.WebRole.dll
